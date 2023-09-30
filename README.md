@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Lisa!
+
+📈 I've just finished my first project using Python, find it in [my Hangman Repo](https://github.com/kentlisa/hangman)
+👀 New projects incoming
+🔜 Next  up: Learning about Web APIs
 
 <!--
 **kentlisa/kentlisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
