@@ -1,7 +1,7 @@
 # Hi, I'm Lisa!
 
-📈 I've just finished my first project using Python, find it in [my Hangman Repo](https://github.com/kentlisa/hangman)
-👀 New projects incoming
+📈 I've just finished my first project using Python, find it in my [Hangman](https://github.com/kentlisa/hangman) Repo\
+👀 New projects incoming\
 🔜 Next  up: Learning about Web APIs
 
 <!--
