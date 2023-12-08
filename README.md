@@ -1,8 +1,8 @@
 # Hi, I'm Lisa!
 
 📈 I've just finished my first project using Python, find it in my [Hangman](https://github.com/kentlisa/hangman) Repo\
-👀 Currently working on : [Data Centralisation Project](https://github.com/kentlisa/multinational-retail-data-centralisation)\
-🔜 Next  up: Learning about Apache Kafka, Spark and Airflow
+👀 Currently working on : [Pinterest Data Pipeline Project](https://github.com/kentlisa/pinterest-data-pipeline)\
+🔜 Next  up: Finishing up my course at AiCore
 
 <!--
 **kentlisa/kentlisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
