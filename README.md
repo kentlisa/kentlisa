@@ -12,7 +12,7 @@
 **Languages**: Python, SQL\
 **Databases**: PostgreSQL\
 **Cloud Computing**: AWS (EC2, S3, MSK, MWAA, IAM), Apache Kafka, Spark, Airflow, Databricks\
-**Other Tools**: GIT, GitHub, Linux, CI/CD\
+**Other Tools**: GIT, GitHub, Linux, CI/CD
 
 
 ### My Journey
