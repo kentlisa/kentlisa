@@ -28,7 +28,7 @@ My degree in Physics ignited an intense interest in software engineering. Since 
 
 ---
 Thank you for taking the time to visit my GitHub profile. Feel free to browse my project repositories and reach out with any questions!\
-You can reach me at on [LinkedIn](https://www.linkedin.com/in/lisa-kent500/)
+You can reach me on [LinkedIn](https://www.linkedin.com/in/lisa-kent500/)
 <!--
 **kentlisa/kentlisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
